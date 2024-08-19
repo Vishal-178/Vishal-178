@@ -1,9 +1,12 @@
-### Hi there 👋 I am Vishal Singh
+# Hi there 👋 I'm Vishal Singh
 
 <!--
 **Vishal-178/Vishal-178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-178&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api?username=vishal-178&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](your-twitter-url)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github)](your-github-url)
+
+<!-- Add other social links if needed -->
